@@ -1,0 +1,43 @@
+
+        Benchmark Report
+        ================
+        
+        Analysis Overview:
+        - Start Time: 2025-02-26 17:28:51.871952
+        - End Time: 2025-02-26 17:29:01.897222
+        - Total Duration: 10.03 seconds
+        - Total Requests: 5
+        - Total Tokens Processed: 642
+        
+        Epoch Performance:
+        
+            - Epoch 1:
+              Duration: 1.67 seconds
+              Score: 0.62
+              Tokens: 120
+              TPS: 71.66 tokens/second
+            
+            - Epoch 2:
+              Duration: 1.67 seconds
+              Score: 0.64
+              Tokens: 113
+              TPS: 67.79 tokens/second
+            
+            - Epoch 3:
+              Duration: 1.91 seconds
+              Score: 0.66
+              Tokens: 140
+              TPS: 73.16 tokens/second
+            
+            - Epoch 4:
+              Duration: 2.26 seconds
+              Score: 0.68
+              Tokens: 129
+              TPS: 57.03 tokens/second
+            
+            - Epoch 5:
+              Duration: 2.50 seconds
+              Score: 0.70
+              Tokens: 140
+              TPS: 55.95 tokens/second
+            
